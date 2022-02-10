@@ -20,7 +20,7 @@ I am a Computer Science student at Universitas Padjadjaran and currently on sixt
 <br>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <br>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ---
 <p align="left">
@@ -31,7 +31,7 @@ I am a Computer Science student at Universitas Padjadjaran and currently on sixt
 </p>
 
 <p align="center">
-  <a target="_blank" href="t.me/aaaabima"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-aaaabima-f531de?style=flat-square&logo=Telegram"></a>
+  <a target="_blank" href="https://t.me/aaaabima"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-aaaabima-f531de?style=flat-square&logo=Telegram"></a>
   <a target="_blank" href="https://www.linkedin.com/in/aaaabima"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mochamad%20Arya%20Bima%20Agfian-f531de?style=flat-square&logo=linkedin"></a>
   <a target="_blank" href="mailto:aaaabima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaaabim@gmail.com-f531de?style=flat-square&logo=gmail"></a>
   <a target="_blank" href="https://www.twitter.com/aaaabimaa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aaaabimaa-f531de?style=flat-square&logo=twitter"></a>
