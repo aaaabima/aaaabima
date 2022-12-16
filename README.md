@@ -20,7 +20,6 @@ I am a Computer Science student at Universitas Padjadjaran and currently on seve
 Mainly used in my work as Android Developer Intern. Still learning about Android and also tech stack such as MVP, Clean Architecture, and Reactive Programming.
 <br>
 
-
 ---
 <p align="left">
 <a href="https://github.com/aaaabima">
@@ -30,7 +29,7 @@ Mainly used in my work as Android Developer Intern. Still learning about Android
 </p>
 
 <p align="center">
-  <a target="_blank" href="t.me/aaaabima"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-aaaabima-f531de?style=flat-square&logo=Telegram"></a>
+  <a target="_blank" href="https://t.me/aaaabima"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-aaaabima-f531de?style=flat-square&logo=Telegram"></a>
   <a target="_blank" href="https://www.linkedin.com/in/aaaabima"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mochamad%20Arya%20Bima%20Agfian-f531de?style=flat-square&logo=linkedin"></a>
   <a target="_blank" href="mailto:aaaabima@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaaabim@gmail.com-f531de?style=flat-square&logo=gmail"></a>
   <a target="_blank" href="https://www.twitter.com/aaaabimaa"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-aaaabimaa-f531de?style=flat-square&logo=twitter"></a>
