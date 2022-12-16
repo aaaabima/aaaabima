@@ -8,19 +8,18 @@
 
 ### About Me  
 
-I am a Computer Science student at Universitas Padjadjaran and currently on sixth semester. This semester, I also attend Bangkit Academy 2022 by Google, Goto, and Traveloka. Feel free to contact me through Telegram or Email. (links to them down below)
+I am a Computer Science student at Universitas Padjadjaran and currently on seventh semester. Software Development Engineer Intern at DANA Indonesia. Feel free to contact me through Telegram or Email. (links to them down below)
 
 ---
 
 ### My Skills
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <br>
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+
+Mainly used in my work as Android Developer Intern. Still learning about Android and also tech stack such as MVP, Clean Architecture, and Reactive Programming.
 <br>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<br>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="php" width="40" height="40"/> </a>
+
 
 ---
 <p align="left">
